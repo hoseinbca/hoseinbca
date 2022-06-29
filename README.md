@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hoseinbca
+- 👀 I’m interested in machine learning , python , flutter
+- 🌱 I’m currently learning machine learning and flutter
+- contact : hossain.bmi@gmail.com
